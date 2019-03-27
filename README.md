@@ -1,1 +1,3 @@
 # Data-N-Analytics
+#
+# LEARNING THE TRADE ONE PY SCRIPT AT A TIME
